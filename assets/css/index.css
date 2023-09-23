@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Consolas';
+  src: url('../fonts/Consolas.ttf');
+}
+
+@font-face {
+  font-family: 'Rounded';
+  src: url('../fonts/Rounded.ttf');
+}
+
+aside.sidebar .app-name-link,
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rounded';
+}
+
+aside.sidebar code {
+  font-weight: bold;
+  color: #f97583;
+}
+
+table th:last-child {
+  width: 100%;
+}
