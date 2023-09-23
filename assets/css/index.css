@@ -1,3 +1,7 @@
+/*!
+ * Ceci est une feature expérimental qui n'a pour usage que la documentation. Une meilleur version vous sera proprosé un jour...
+ */
+
 @font-face {
   font-family: 'Consolas';
   src: url('../fonts/Consolas.ttf');
@@ -11,6 +15,10 @@
 aside.sidebar .app-name-link,
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Rounded';
+}
+
+aside.sidebar {
+  background-color: #141414;  
 }
 
 aside.sidebar code {

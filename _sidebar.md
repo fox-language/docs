@@ -1,5 +1,5 @@
 # Fox-Language
-- [Accueil](/index.md)
+- [Accueil](/)
 - [Variables](/docs/variables.md#les-variables)
   - [Constantes](/docs/variables.md#const-constantes)
   - [Altérables](/docs/variables.md#alt-altérables)
@@ -26,5 +26,7 @@
     - [Class](/docs/modules.md#types-de-module)
     - [Interface](/docs/modules.md#types-de-module)
   - [Methodes](/docs/modules.md#méthodes)
+    - [public](/docs/modules.md#méthodes)
+    - [private](/docs/modules.md#méthodes)
   - [Import](/docs/modules.md#import)
   - [Export](/docs/modules.md#export)
