@@ -1,5 +1,5 @@
 # Les types
-
+---
 <table>
   <thead>
     <th>Type</th>

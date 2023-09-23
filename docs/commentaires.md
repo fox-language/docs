@@ -1,6 +1,6 @@
 # Les commentaire
 Les commentaires permettent de préciser des informations sur votre code, décrire des blocks, retirer temporairement du code mais aussi documenter.
-
+---
 ## `##` - Simples
 Ce commentaire est placé à la fin d'une ligne de code ou au début. Tout ce qui se trouve après jusqu'au prochain saut de ligne est ignoré.
 <pre data-lang="fox"><code><span class="hljs-keyword">const</span> <span class="hljs-var_">element</span>[<span class="hljs-type">string</span>] = <span class="hljs-string">'Bonjour !'</span>; <span class="hljs-comment">## Ceci est un commentaire</span></code></pre>

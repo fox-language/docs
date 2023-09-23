@@ -1,6 +1,6 @@
 # Les modules
 Un module permet d'exporter ou importer des fonctions, des classes, de la data ou une interface entre différents fichiers.
-
+---
 ## Définir un module
 Vous pouvez déclarer un module afin de l'exporter où vous souhaitez.
 A l'intérieur du fichier, vous pouvez utiliser le nom de votre module pour pouvoir l'utiliser à l'intérieur à votre guise qu'importe la méthode.
